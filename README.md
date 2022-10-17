@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lfrancois94
-- 👀 I’m interested in ...data analytics
-- 🌱 I’m currently learning ...analytics, visualization (python), SQL, data sci methodologies
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning analytics, visualization (python), SQL, data sci methodologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
